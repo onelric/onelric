@@ -11,3 +11,4 @@
 </div>
 
 - Currently working on [catnip](https://github.com/onelric/catnip) a simple system fetch tool for linux written in rust!
+- Linux [dotfiles](https://github.com/onelric/dotfiles) can be found somewhere on my profile if you look around!
