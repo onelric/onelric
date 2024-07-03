@@ -8,6 +8,11 @@
 ![GitHub User's stars](https://img.shields.io/github/stars/onelric?style=for-the-badge&labelColor=%23e8e3e3&color=%23151515)
 ![GitHub followers](https://img.shields.io/github/followers/onelric?style=for-the-badge&labelColor=%23e8e3e3&color=%23151515)
 
+<div align="center">
+
+![Void Linux](https://img.shields.io/badge/linux-%23ff0000?style=for-the-badge&logo=Void%20Linux&logoColor=%23151515&label=void&labelColor=%23e8e3e3&color=%23151515&link=https%3A%2F%2Fvoidlinux.org%2F)
+</div>
+
 </div>
 
 - Currently working on [catnip](https://github.com/onelric/catnip) a simple system fetch tool for linux written in rust!
